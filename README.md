@@ -1,7 +1,7 @@
 # Python
 # My Project
 
-A short description of what this project does and who it's for.
+A short description of what this project does and who it's for. Changes made on 14th September
 
 ## Features
 
